@@ -2,11 +2,6 @@
 
 A powerful, interactive Streamlit web application that compares multiple machine learning models for predicting California house prices. It provides detailed model performance metrics, visualizations, and complexity analysis to help users understand trade-offs between different algorithms.
 
-## 🚀 Live Demo
-
-> **Note**: You can run the app locally by following the instructions below.
-
----
 
 ## 📦 Features
 
