@@ -44,7 +44,7 @@ Run the Streamlit app:
 streamlit run app.py
 ```
 
-Then open the app in your browser at `http://localhost:8501`.
+Then open the app in your browser at `http://localhost:5000`.
 
 ---
 
